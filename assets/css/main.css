@@ -1,0 +1,458 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.main-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.images-section {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding-bottom: 50px;
+}
+
+img {
+  position: absolute;
+  justify-content: center;
+  object-fit:contain;
+  width: 300px;
+  height: 300px;
+  opacity: 0;
+  padding: 1rem;
+  background-color: blanchedalmond;
+}
+
+.info {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  margin-top: 20rem;
+}
+
+h2 {
+  padding: 0;
+  text-align: center;
+}
+
+
+
+@keyframes img22 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img22 {
+  animation: img22;
+  animation-delay: 2s;
+  animation-duration: 0s; 
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+}
+
+@keyframes img21 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img21 {
+  animation: img21;
+  animation-delay: 4s;
+  animation-duration: 0s;  
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img20 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img20 {
+  animation: img20;
+  animation-delay: 6s;
+  animation-duration: 0s;  
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img19 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img19 {
+  animation: img19;
+  animation-delay: 8s;
+  animation-duration: 0s;  
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+
+
+@keyframes img18 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img18 {
+  animation: img18;
+  animation-delay: 10s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img17 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img17 {
+  animation: img17;
+  animation-delay: 12s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img16 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img16 {
+  animation: img16;
+  animation-delay: 14s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img15 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img15 {
+  animation: img15;
+  animation-delay: 16s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img14 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img14 {
+  animation: img14;
+  animation-delay: 18s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img13 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img13 {
+  animation: img13;
+  animation-delay: 20s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img12 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img12 {
+  animation: img12;
+  animation-delay: 22s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img11 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img11 {
+  animation: img11;
+  animation-delay: 24s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img10 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img10 {
+  animation: img10;
+  animation-delay: 26s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img9 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img9 {
+  animation: img9;
+  animation-delay: 28s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img8 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img8 {
+  animation: img8;
+  animation-delay: 30s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img7 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img7 {
+  animation: img7;
+  animation-delay: 32s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img6 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img6 {
+  animation: img6;
+  animation-delay: 34s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img5 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img5 {
+  animation: img5;
+  animation-delay: 36s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img4 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img4 {
+  animation: img4;
+  animation-delay: 38s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img3 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img3 {
+  animation: img3;
+  animation-delay: 40s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+  
+}
+
+@keyframes img2 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img2 {
+  animation: img2;
+  animation-delay: 42s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+
+}
+
+
+
+@keyframes img1 {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.img1 {
+  animation: img1;
+  animation-delay: 44s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: backwards;
+}
+
+@keyframes img-logo {
+
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.img-logo {
+  animation: img-logo;
+  animation-delay: 44s;
+  animation-duration: 0s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
